@@ -1,0 +1,4 @@
+state,energy,weight
+design,pTM,1.0
+design,global_pLDDT,1.0
+design,hydrophobic,5.0
